@@ -1,0 +1,6 @@
+#table{
+    border: 5px;
+}
+tr,th,td{
+    border-block: 5px;
+}
